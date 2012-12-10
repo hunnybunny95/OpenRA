@@ -96,3 +96,10 @@ VolkovVoice:
 		Move: irommoc,irommoe,irommod
 		Attack: iromata,iromatb,iromatc,iromatd,iromate
 		Die: dedman1,dedman2,dedman3,dedman4,dedman5,dedman6,dedman7,dedman8,dedman10
+
+#StavrosVoice:
+#	Voices:
+#		Select: stavcmdr,stavyes
+#		Move: stavmov
+#		Attack: stavcrse
+#		Die: dedman1,dedman2,dedman3,dedman4,dedman5,dedman6,dedman7,dedman8,dedman10
